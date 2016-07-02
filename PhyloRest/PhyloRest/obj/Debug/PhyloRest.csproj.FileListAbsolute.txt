@@ -1,0 +1,20 @@
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\bin\Debug\PhyloRest.exe.config
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\bin\Debug\PhyloRest.exe
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\bin\Debug\PhyloRest.pdb
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.csprojResolveAssemblyReference.cache
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.Form1.resources
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.Properties.Resources.resources
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.csproj.GenerateResource.Cache
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.exe
+E:\DOCS\Visual Studio 2015\Projects\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.pdb
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\bin\Debug\PhyloRest.exe.config
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.exe
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.pdb
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\bin\Debug\PhyloRest.exe
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\bin\Debug\PhyloRest.pdb
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.Form1.resources
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.Properties.Resources.resources
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\obj\Debug\PhyloRest.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\PhyloRest\PhyloRest\PhyloRest\bin\Debug\Newtonsoft.Json.xml
